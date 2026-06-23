@@ -130,10 +130,6 @@ a {
   will-change: transform;
 }
 
-.testimonial-track:hover {
-  animation-play-state: paused;
-}
-
 .testimonial-card {
   transform-style: preserve-3d;
 }
@@ -146,10 +142,6 @@ a {
 .machinery-track {
   animation: machinery-scroll 36s linear infinite;
   will-change: transform;
-}
-
-.machinery-track:hover {
-  animation-play-state: paused;
 }
 
 @keyframes gold-shimmer {
