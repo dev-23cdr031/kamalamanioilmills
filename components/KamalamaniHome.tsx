@@ -875,7 +875,7 @@ export function KamalamaniHome() {
                 <a href="#legacy">Legacy</a><a href="#founders">Founders</a><a href="#products">Products</a><a href="#machinery">Machinery</a><a href="#journey">Process</a><a href="#testimonials">Reviews</a><a href="#quality">Quality</a>
               </div>
               <div className="flex flex-col items-start gap-2 md:items-end">
-                <p className="text-[9px] uppercase tracking-[.15em] text-white/38">Location: Virudhunagar</p>
+                <p className="text-[9px] uppercase tracking-[.15em] text-white/38">Location: Fathimanagar, Virudhunagar, Tamil Nadu - 626001</p>
                 <a
                   href="https://wa.me/9842867838"
                   target="_blank"
